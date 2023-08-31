@@ -3,3 +3,4 @@ def print_items(n):
         print(i)
 
 print_items(10)
+t
